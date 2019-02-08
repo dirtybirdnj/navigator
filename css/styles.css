@@ -1,0 +1,23 @@
+.btn {
+    width: 70%;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: rgb(102, 102, 102);
+    color: white;
+    font-size: 3em;
+}
+
+.active {
+    background-color: #ACADAD;
+    color: rgb(27, 27, 27);
+}
+
+#container {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;    
+}
